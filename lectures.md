@@ -4,6 +4,7 @@ title: Lectures
 permalink: /lectures/
 ---
 
+<!---
 
 | &nbsp;&nbsp;Week&nbsp;&nbsp;              | Content                                                        |  Deliverables Due |
 |:-------------------:|---------------------------------------------------------------|:------------------|
@@ -175,3 +176,5 @@ Optional textbook reading: An Introduction to Statistical Learning: Section 2, S
 [Instructions](../rmdnote) on how to convert the R Markdown document (Rmd file) into a PDF file.  
 
 [Assignement 1](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jc6qswci4pu1h7) Due 11.59pm on Friday, January 19
+
+--->
