@@ -20,7 +20,7 @@ Friday 6pm-9pm, Gleacher 308
 [Syllabus](syllabus)  
 [Lectures](lectures)  
 [Project](project)  
-[Piazza Q&A](piazza.com/chicagobooth/winter2019/bus41204/home)  --- You can self-enroll [here](piazza.com/chicagobooth/winter2019/bus41204).
+[Piazza Q&A](https://piazza.com/chicagobooth/winter2019/bus41204/home)  --- You can self-enroll [here](https://piazza.com/chicagobooth/winter2019/bus41204).
 
 **Previous versions**: [2015](https://chicagoboothml.github.io/MachineLearning_Fall2015/),
 [2016](https://chicagoboothml.github.io/ML2016/),
