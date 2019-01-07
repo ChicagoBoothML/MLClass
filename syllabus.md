@@ -9,7 +9,7 @@ permalink: /syllabus/
 **TAs**:   
 
 Chaoxing Dai ([chaoxingdai@uchicago.edu](mailto:chaoxingdai@uchicago.edu))  
-Jingyu He ([jingyuhe@uchicago.edu](mailto:jingyuhe@uchicago.edu))  
+Jianeng Xu ([jianeng.xu@chicagobooth.edu](mailto:jianeng.xu@chicagobooth.edu))  
 
 **Office hours**: by appointment  
 
