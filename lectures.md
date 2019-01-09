@@ -154,6 +154,8 @@ Optional reading:
 * ISLR - Section 4, Section 8
 * Overview of trees [PDF](http://www.ise.bgu.ac.il/faculty/liorr/hbchap9.pdf)
 
+--->
+
 
 ## Week 1
 
@@ -161,8 +163,10 @@ Optional reading:
 * k nearest neighbors methods; similarity in machine learning
 * bias-variance trade-off; cross-validation
 
-[Course Overview](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jc1fwhz9qd946x),
-[Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jc1gfg4bnmb3d2)  
+<!---
+[Course Overview](),
+--->
+[Slides](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jqpegk90ro71gu)  
 
 Code: 
 
@@ -175,6 +179,8 @@ Optional textbook reading: An Introduction to Statistical Learning: Section 2, S
    
 [Instructions](../rmdnote) on how to convert the R Markdown document (Rmd file) into a PDF file.  
 
-[Assignement 1](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jc6qswci4pu1h7) Due 11.59pm on Friday, January 19
-
+<!---
+[Assignement 1]() Due 11.59pm on Thursday, January 24
 --->
+
+
