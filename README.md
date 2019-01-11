@@ -1,2 +1,2 @@
-# ML2017
-Machine Learning Class --- Winter 2017/2018
+# MLClass
+Machine Learning Class --- Winter 2018/2019
