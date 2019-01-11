@@ -178,8 +178,8 @@ Optional textbook reading: An Introduction to Statistical Learning: Section 2, S
    
 [Instructions](../rmdnote) on how to convert the R Markdown document (Rmd file) into a PDF file.  
 
-<!---
-[Assignement 1]() Due 11.59pm on Thursday, January 24
---->
+
+[Assignement 1](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jqriccamjc56nl) Due 11.59pm on Thursday, January 24
+
 
 
