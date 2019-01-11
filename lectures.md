@@ -163,10 +163,9 @@ Optional reading:
 * k nearest neighbors methods; similarity in machine learning
 * bias-variance trade-off; cross-validation
 
-<!---
-[Course Overview](),
---->
-[Slides](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jqpegk90ro71gu)  
+
+[Course Overview](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jqrh5clzzld3p6),
+[Slides](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jqpegk90ro71gu)    
 
 Code: 
 
