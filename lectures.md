@@ -160,8 +160,10 @@ Optional reading:
 ## Week 2
 
 * recommender systems
+* clustering
 
-[Recommender Systems](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jr0x20i7grg76o) 
+[Recommender Systems](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jr0x20i7grg76o), 
+[Clustering](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jr15wld4eqb6p1) 
 
 
 Code: [script](https://github.com/ChicagoBoothML/ML2017/tree/master/lec08)  
