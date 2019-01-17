@@ -166,8 +166,9 @@ Optional reading:
 [Clustering](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jr15wld4eqb6p1) 
 
 
-Code: [script](https://github.com/ChicagoBoothML/ML2017/tree/master/lec08)  
+Code:    
 
+* [recommendation example](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec08/classroomExamples.R)
 * scotch: [data](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.csv), [R](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.R)
 
 Optional reading:
