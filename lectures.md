@@ -168,6 +168,8 @@ Optional reading:
 
 Code: [script](https://github.com/ChicagoBoothML/ML2017/tree/master/lec08)  
 
+* scotch: [data](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.csv), [R](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.R)
+
 Optional reading:
 
 * We will be using recommenderlab package.
