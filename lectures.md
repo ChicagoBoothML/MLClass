@@ -117,7 +117,7 @@ Optional reading:
 
 * ISLR - Section 4
 
-## Week 3
+## Week 3 
 
 * ensemble methods
 * bagging; random forest
@@ -125,36 +125,45 @@ Optional reading:
 
 [Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jck4lmytuoq2mm)
 
+
+
+[Assignment 2](http://www.piazza.com/class_profile/get_resource/j8padvvrtd375m/jcnkb858bck5m2)
+
+
+--->
+
+
+## Week 3 and 4
+
+* classification
+* classification and regression trees
+* ensemble methods
+* bagging; random forest
+* boosting
+
+
+[Slides](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jratk4cagiq72d)   
+
+<!---
 Code: 
+
+* [trees.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/trees.R)
+* [fglass.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/fglass.R)  
 
 * CaHousingAnalysis: [data](https://github.com/ChicagoBoothML/MLClassData/raw/master/CaliforniaHousing/CaliforniaHousing.csv), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec03/CaHousingAnalysis.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2017/raw/master/lec03/CaHousingAnalysis.pdf)
 
 * [scripts](https://github.com/ChicagoBoothML/ML2017/tree/master/lec03)
 
-Optional reading: 
 
-* ISLR - Section 8
-* Overview of Bagging [PDF](http://statistics.berkeley.edu/sites/default/files/tech-reports/421.pdf)
-* Overview of Random Forests [PDF](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
-
-[Assignment 2](http://www.piazza.com/class_profile/get_resource/j8padvvrtd375m/jcnkb858bck5m2)
-
-
-## Week 2
-
-[Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jca00a3gi5j575)   
-Code: 
-
-* [trees.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/trees.R)
-* [fglass.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/fglass.R)  
-* scoth data: [PDF](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jcbgs74oxt822r), [data](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.csv), [R](https://raw.githubusercontent.com/mlakolar/BUS41000/master/data/scotch.R)
+--->
 
 Optional reading: 
 
 * ISLR - Section 4, Section 8
 * Overview of trees [PDF](http://www.ise.bgu.ac.il/faculty/liorr/hbchap9.pdf)
+* Overview of Bagging [PDF](http://statistics.berkeley.edu/sites/default/files/tech-reports/421.pdf)
+* Overview of Random Forests [PDF](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 
---->
 
 
 ## Week 2
