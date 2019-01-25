@@ -144,18 +144,14 @@ Optional reading:
 
 [Slides](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jratk4cagiq72d)   
 
-<!---
 Code: 
 
-* [trees.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/trees.R)
-* [fglass.R](https://raw.githubusercontent.com/ChicagoBoothML/ML2016/master/code/fglass.R)  
+* [trees.R](https://raw.githubusercontent.com/ChicagoBoothML/MLClass/master/lec03/trees.R)
+* [fglass.R](https://raw.githubusercontent.com/ChicagoBoothML/MLClass/master/lec03/fglass.R)  
+* CaHousingAnalysis: [data](https://raw.githubusercontent.com/ChicagoBoothML/MLClass/master/lec03/CaliforniaHousing.csv), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/MLClass/master/lec03/CaHousingAnalysis.Rmd), [PDF](https://github.com/ChicagoBoothML/MLClass/raw/master/lec03/CaHousingAnalysis.pdf)
 
-* CaHousingAnalysis: [data](https://github.com/ChicagoBoothML/MLClassData/raw/master/CaliforniaHousing/CaliforniaHousing.csv), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec03/CaHousingAnalysis.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2017/raw/master/lec03/CaHousingAnalysis.pdf)
+* [scripts](https://github.com/ChicagoBoothML/MLClass/tree/master/lec03)
 
-* [scripts](https://github.com/ChicagoBoothML/ML2017/tree/master/lec03)
-
-
---->
 
 Optional reading: 
 
@@ -164,7 +160,7 @@ Optional reading:
 * Overview of Bagging [PDF](http://statistics.berkeley.edu/sites/default/files/tech-reports/421.pdf)
 * Overview of Random Forests [PDF](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 
-
+[Assignement 2](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jrbi7jiyt044oa) Due 11.59pm on Thursday, February 14
 
 ## Week 2
 
