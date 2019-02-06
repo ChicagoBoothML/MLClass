@@ -101,36 +101,25 @@ Optional reading:
 
 Individual homework: [PDF](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jd5gzpp088u44h)
 
-## Week 4
+--->
+
+## Week 5
 
 * evaluating classifiers; confusion matrix
 * expected value framework
 * profit and lift curves
 
-[Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jctbg7d8y0sx0)
+[Slides](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jrsi8cbvoeu6q)
 
-* Kaggle Credit Score: [data](https://github.com/ChicagoBoothML/MLClassData/tree/master/GiveMeSomeCredit), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec04/Kaggle_giveMeCredit.Rmd), [PDF](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec04/Kaggle_giveMeCredit.pdf)    
-* Tabloid: [data](https://github.com/ChicagoBoothML/MLClassData/tree/master/Tabloid), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec04/tabloid.Rmd), [PDF](https://raw.githubusercontent.com/ChicagoBoothML/ML2017/master/lec04/tabloid.pdf)    
-* Accidents: [data](https://github.com/ChicagoBoothML/MLClassData/tree/master/TransportAccidents), [Rmd](https://github.com/ChicagoBoothML/ML2017/raw/master/lec04/accidents.Rmd), [PDF](https://github.com/ChicagoBoothML/ML2017/raw/master/lec04/accidents.pdf)
+* Kaggle Credit Score: [Rmd](https://github.com/ChicagoBoothML/MLClass/raw/master/lec05/Kaggle_giveMeCredit.Rmd), [PDF](https://github.com/ChicagoBoothML/MLClass/raw/master/lec05/Kaggle_giveMeCredit.pdf)    
+* Tabloid: [Rmd](https://github.com/ChicagoBoothML/MLClass/raw/master/lec05/tabloid.Rmd), [PDF](https://github.com/ChicagoBoothML/MLClass/raw/master/lec05/tabloid.pdf)    
+* Accidents: [Rmd](https://github.com/ChicagoBoothML/MLClass/raw/master/lec05/accidents.Rmd), [PDF](https://github.com/ChicagoBoothML/MLClass/raw/master/lec05/accidents.pdf)
 
 Optional reading: 
 
 * ISLR - Section 4
 
-## Week 3 
 
-* ensemble methods
-* bagging; random forest
-* boosting
-
-[Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jck4lmytuoq2mm)
-
-
-
-[Assignment 2](http://www.piazza.com/class_profile/get_resource/j8padvvrtd375m/jcnkb858bck5m2)
-
-
---->
 
 
 ## Week 3 and 4
@@ -149,7 +138,6 @@ Code:
 * [trees.R](https://raw.githubusercontent.com/ChicagoBoothML/MLClass/master/lec03/trees.R)
 * [fglass.R](https://raw.githubusercontent.com/ChicagoBoothML/MLClass/master/lec03/fglass.R)  
 * CaHousingAnalysis: [data](https://raw.githubusercontent.com/ChicagoBoothML/MLClass/master/lec03/CaliforniaHousing.csv), [Rmd](https://raw.githubusercontent.com/ChicagoBoothML/MLClass/master/lec03/CaHousingAnalysis.Rmd), [PDF](https://github.com/ChicagoBoothML/MLClass/raw/master/lec03/CaHousingAnalysis.pdf)
-
 * [scripts](https://github.com/ChicagoBoothML/MLClass/tree/master/lec03)
 
 
