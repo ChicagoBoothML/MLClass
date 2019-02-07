@@ -131,7 +131,7 @@ Optional reading:
 * boosting
 
 
-[Slides](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jratk4cagiq72d)   
+[Slides](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jrmd2wksegw6he)   
 
 Code: 
 
