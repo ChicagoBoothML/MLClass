@@ -84,24 +84,23 @@ Optional reading:
 * h2o [booklet](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/DeepLearningBooklet.pdf) on deep learning    
 * [h2o package](http://docs.h2o.ai/h2o/latest-stable/index.html)  
 
+--->
 
-## Week 5
+## Week 6
 
 * perceptron, linear classifiers
 * support vector machines
 * gradient descent
 
-[SVM](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jd3eu7g8pmf5pu),
-[Optimization](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jd3euomjcm36oi)   
-Code: [scripts](https://github.com/ChicagoBoothML/ML2016/tree/master/code/lec05)   
+[SVM](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/js4xrbjptjl4lv),
+[Optimization](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/js4xri6p3w24sv)   
+Code: [scripts](https://github.com/ChicagoBoothML/MLClass/tree/master/lec06)   
 
 Optional reading: 
 
 * ISLR - Section 9
 
-Individual homework: [PDF](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jd5gzpp088u44h)
 
---->
 
 ## Week 5
 
