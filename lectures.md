@@ -67,13 +67,14 @@ Optional reading:
   Book available at: http://www.deeplearningbook.org/    
   Chapter 9 and Chapter 14 provide enormous amount of detail.
 
+--->
 
-## Week 6
+## Week 7
 
 * Introduction to neural networks
 
-[Neural networks](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jdenydk5lgz4mn)   
-Code: [scripts](https://github.com/ChicagoBoothML/ML2017/tree/master/lec06)   
+[Neural networks](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jsf4bx4ndue2uf)   
+Code: [scripts](https://github.com/ChicagoBoothML/MLClass/tree/master/lec07)   
 
 Optional reading: 
 
@@ -84,7 +85,6 @@ Optional reading:
 * h2o [booklet](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/DeepLearningBooklet.pdf) on deep learning    
 * [h2o package](http://docs.h2o.ai/h2o/latest-stable/index.html)  
 
---->
 
 ## Week 6
 
