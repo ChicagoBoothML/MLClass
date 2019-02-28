@@ -21,18 +21,7 @@ permalink: /lectures/
 | [11]()         | &nbsp;&nbsp;No class; Project write-up due   &nbsp;&nbsp;      |  &nbsp;&nbsp;HW 4             |
 {: .mbtablestyle}
 
-## Week 9
 
-[Sequence Modelling](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jeal1kd4tb2jw) --- First half of the lecture    
-Guest speaker: Vinh Luong --- Second half of the lecture      
-Code: [script](https://github.com/ChicagoBoothML/ML2017/tree/master/lec09)   
-
-
-Optional reading: 
-
-* Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville    
-  Book available at: http://www.deeplearningbook.org/    
-  Chapter 15 
 
 ## Week 8
 
@@ -51,15 +40,31 @@ Optional reading:
 * [Matrix Factorization Techniques For Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)
 * [All Together Now: A Perspective on the Netflix Prize](http://dx.doi.org/10.1080/09332480.2010.10739787)
 
+--->
 
 
-## Week 7
+## Week 9
+
+[Sequence Modelling](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jsp3mk30xkgm4) --- First half of the lecture    
+Guest speaker: Vinh Luong --- Second half of the lecture      
+Code: [script](https://github.com/ChicagoBoothML/MLClass/tree/master/lec09)   
+
+
+Optional reading: 
+
+* Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville    
+  Book available at: http://www.deeplearningbook.org/    
+  Chapter 15 
+  
+  
+
+## Week 8
 
 * convolutional neural networks
 * auto-encoders
 
-[Slides](https://piazza.com/class_profile/get_resource/j8padvvrtd375m/jdp00x7z93j2x1)    
-Code: [scripts](https://github.com/ChicagoBoothML/ML2017/tree/master/lec06)   
+[Slides](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jsp3mgrmu56jm)    
+Code: [scripts](https://github.com/ChicagoBoothML/MLClass/tree/master/lec08)   
 
 Optional reading: 
 
@@ -67,7 +72,6 @@ Optional reading:
   Book available at: http://www.deeplearningbook.org/    
   Chapter 9 and Chapter 14 provide enormous amount of detail.
 
---->
 
 ## Week 7
 
