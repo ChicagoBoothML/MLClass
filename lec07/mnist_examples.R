@@ -24,7 +24,7 @@ for (fName in fileNames) {
 
 
 # code to load digits and show one digit
-source("https://raw.githubusercontent.com/ChicagoBoothML/MachineLearning_Fall2015/master/Programming%20Scripts/Lecture06/mnist.helper.R")
+source("https://github.com/ChicagoBoothML/MLClass/raw/master/lec07/mnist.helper.R")
 
 # load all digits
 digit.data = load_mnist(MNIST_DIR)
