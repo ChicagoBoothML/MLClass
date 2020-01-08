@@ -4,6 +4,10 @@ title: Final Project
 permalink: /project/
 ---
 
+See [canvas](https://canvas.uchicago.edu/courses/25157/modules)
+
+<!---
+
 Your class project is an opportunity for you to explore an interesting Machine Learning problem of your choice
 in the context of a real-world data set. Your class project must be about new things you have done this semester; you can't use results you have developed in previous semesters. We will provide some project ideas here, but the best idea is to combine Machine Learning with a problem in your business area.
 
@@ -87,3 +91,5 @@ Your report should summarize what was the goal of the project, what data you use
 Tell us what did you learn from the project. Did you manage to solve a particular business problem using machine learning tools?
 If your method did not do as well as you were expecting, could you elaborate as to why?
 What conclusions can you draw from the project?
+
+--->
