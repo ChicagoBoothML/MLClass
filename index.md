@@ -22,8 +22,8 @@ Satuday 1.30pm-4.30pm, Booth 455 NBC Towers, NBC130
 **Review Session**: 12:15pm-1:pm Saturdays, Gleacher 304
 
 [Syllabus](https://canvas.uchicago.edu/courses/25157/assignments/syllabus)  
-[Lectures](lectures)  
-[Project](project)  
+[Lectures](https://canvas.uchicago.edu/courses/25157/modules)  
+[Project](https://canvas.uchicago.edu/courses/25157/modules)  
 [Piazza Q&A](https://piazza.com/chicagobooth/winter2020/bus41204/home)
 
 **IMPORTANT**: Class Materials are going to be hosted on [canvas](https://canvas.uchicago.edu/courses/25157). 
