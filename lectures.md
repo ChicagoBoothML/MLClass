@@ -4,6 +4,9 @@ title: Lectures
 permalink: /lectures/
 ---
 
+See [canvas](https://canvas.uchicago.edu/courses/25157/modules)
+
+
 <!---
 
 | &nbsp;&nbsp;Week&nbsp;&nbsp;              | Content                                                        |  Deliverables Due |
@@ -40,7 +43,6 @@ Optional reading:
 * [Matrix Factorization Techniques For Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)
 * [All Together Now: A Perspective on the Netflix Prize](http://dx.doi.org/10.1080/09332480.2010.10739787)
 
---->
 
 
 ## Week 9
@@ -204,5 +206,5 @@ Optional textbook reading: An Introduction to Statistical Learning: Section 2, S
 
 [Assignement 1](https://piazza.com/class_profile/get_resource/joa87ld16vd1qb/jqriccamjc56nl) Due 11.59pm on Thursday, January 24
 
-
+--->
 
