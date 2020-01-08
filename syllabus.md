@@ -4,6 +4,11 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
+See [canvas](https://canvas.uchicago.edu/courses/25157/assignments/syllabus).
+
+<!----
+
+
 **Instructor**: Prof. Mladen Kolar ([MKolar@chicagobooth.edu](mailto:MKolar@chicagobooth.edu)), office: Harper Center 338
 
 **TAs**:   
@@ -146,3 +151,6 @@ Students must adhere to Booth Honor Code. But you do not need to include the hon
 The University of Chicago is committed to ensuring the full participation of all students in its programs. If you have a documented disability (or think you may have a disability) and, as a result, need a reasonable accommodation to participate in class, complete course requirements, or benefit from the University's programs or services, please contact Student Disability Services as soon as possible. To receive a reasonable accommodation, you must be appropriately registered with Student Disability Services.  Please contact the office at 773-702- 6000/TTY 773-795-1186 or [disabilities@uchicago.edu](mailto:disabilities@uchicago.edu), or visit the website at [disabilities.uchicago.edu](disabilities.uchicago.edu). Student Disability Services is located at 5501 S. Ellis Avenue.
 
 If you have an approved accommodation from Student Disability Services that you plan to use in this course, please contact Academic Services ([AcademicServices@lists.chicagobooth.edu](mailto:AcademicServices@lists.chicagobooth.edu)) as soon as possible. Academic Services will provide support to you and your instructor and coordinate the details of your accommodations on your behalf.
+
+
+--->
